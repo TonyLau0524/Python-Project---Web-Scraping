@@ -47,14 +47,10 @@ This repository contains a dataset with information about movies. The dataset in
    - Horizontal Bar chart to show the top 10 most frequent directors/stars.
    - Scatterplot with varying hues to show correlations between votes and gross earnings for movies directed by the top 5 most frequent       directors.
 
-5. **Data Export:**
-   - Cleaned data is saved to a CSV file for reference.
 
 ## Conclusion
 
-This analysis explores the historical weather data for Toronto, including average daytime and nighttime temperatures, as well as the number of rainy days for each month. The analysis includes data scraping, data cleaning, data visualization, and statistical summaries. Key findings and visualizations are presented to help understand Toronto's weather patterns throughout the year.
-
-Additionally, based on the annual weather averages, it is evident that June and July are particularly appealing months for holidaymakers, as they boast the most favorable weather conditions. During these months, temperatures are pleasant, with an average around 18°C, making them ideal for outdoor activities and exploration.
+The data tells us that between 2000 and 2020, there were a lot of highly-rated movies. People really like drama films. A good chunk of movies are for grown-ups (R-rated), and some don't have any ratings. If a movie gets a high rating on IMDb, it often makes a lot of money at the box office. Steven Spielberg is really good at making movies that people love and pay to see. Also, directors like Alfred Hitchcock and Akira Kurosawa have made many great films. And the actor Robert De Niro has been in a lot of really good movies too. All in all, the data shows us what kinds of movies people enjoy and which filmmakers and actors are really successful in the movie business.
 
 ## Contributors
 
