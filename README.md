@@ -1,6 +1,6 @@
 # Web Scraping of Top 1000 movies on IMDb
 
-This simple Jupyter Notebook project analyzes historical yearly weather averages for Toronto, Ontario, Canada. The data represents the average maximum and minimum temperatures as well as the annual average rainfall, taken from over 12 years of historical data. The data is obtained from the World Weather Online website.
+This simple Jupyter Notebook project analyzes top 1000 movies on IMDb, encompassing critical details such as movie titles, release years, genres, runtimes, ratings, directors, lead actors, IMDb votes, and box office earnings.. The data is obtained from the IMDb website.
 
 ## Data Source
 
